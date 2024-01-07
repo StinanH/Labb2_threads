@@ -1,0 +1,14 @@
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\bin\Debug\net6.0\Labb2_Threads.exe
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\bin\Debug\net6.0\Labb2_Threads.deps.json
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\bin\Debug\net6.0\Labb2_Threads.runtimeconfig.json
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\bin\Debug\net6.0\Labb2_Threads.dll
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\bin\Debug\net6.0\Labb2_Threads.pdb
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.AssemblyInfoInputs.cache
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.AssemblyInfo.cs
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.csproj.CoreCompileInputs.cache
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.dll
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\refint\Labb2_Threads.dll
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.pdb
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\Labb2_Threads.genruntimeconfig.cache
+C:\Users\Stina\source\repos\StinanH\Labb2_Threads\obj\Debug\net6.0\ref\Labb2_Threads.dll
